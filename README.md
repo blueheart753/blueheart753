@@ -1,4 +1,4 @@
-# <center><img src ="https://mblogthumb-phinf.pstatic.net/20141202_98/syunhee4865_1417524708152WjqRc_GIF/tumblr_nfibh0Kvzu1rr3fiho1_500.gif?type=w420"></center>
+# 코더의 하루
 
 <!--
 **blueheart753/blueheart753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
