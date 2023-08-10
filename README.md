@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=)
 <div align="center">
-  코더 지망생
+  ![header](https://capsule-render.vercel.app/api?height=400&text= "코더 지망생")
 </div>
 <!--
 **blueheart753/blueheart753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
