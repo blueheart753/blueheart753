@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+  ![header](https://capsule-render.vercel.app/api?type=slice)
 </div>
 <!--
 **blueheart753/blueheart753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
