@@ -9,7 +9,7 @@ Hello my github
 ![HTML](https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
-![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![node.js](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## Status
